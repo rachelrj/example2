@@ -61,6 +61,8 @@
    npm run test
 */
 
+/* New comment */
+
 module.exports = {
    products,
    cart,
